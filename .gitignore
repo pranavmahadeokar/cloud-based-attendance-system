@@ -1,0 +1,8 @@
+*
+*/*
+!.gitignore
+!app.py
+!config.ymal
+!requirements.txt
+!templates
+!templates/**
